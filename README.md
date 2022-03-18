@@ -7,8 +7,8 @@ List of Codes:
 1. Another ball droppped from a tower
 2. Altitude of a satellite
 3. Quantum Potential Step
-   (c) Prime numbers
-   (d) Density Plots 
+4. Prime numbers
+5. Density Plots for STM measurements
 3. An unstable calculation
 4. Quasar Spectrum: Integration 
 5. (a) Quantum uncertainty in the harmonic oscillator
