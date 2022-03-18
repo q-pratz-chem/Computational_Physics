@@ -5,8 +5,8 @@ Programs from Computational Physics, written in python. The reference book: Comp
 List of Codes:
 
 1. Another ball droppped from a tower
-2. (a) Altitude of a satellite
-   (b) Quantum Potential Step
+2. Altitude of a satellite
+3. Quantum Potential Step
    (c) Prime numbers
    (d) Density Plots 
 3. An unstable calculation
