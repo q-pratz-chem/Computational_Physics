@@ -9,11 +9,5 @@ List of Codes:
 3. Quantum Potential Step
 4. Prime numbers
 5. Density Plots for STM measurements
-3. An unstable calculation
-4. Quasar Spectrum: Integration 
-5. (a) Quantum uncertainty in the harmonic oscillator
-   (b) Interpolation of a quasar spectrum
-6. Brownian motion
-7. Global minimum of a function
-8. (a) Gaussian elimination with pivoting
-   (b) Finding eigenvalues
+6. An unstable calculation
+
