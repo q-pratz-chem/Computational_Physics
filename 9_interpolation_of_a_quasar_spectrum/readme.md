@@ -2,7 +2,7 @@
 
 (a) Write a program that can perform interpolation of a data set using either
 - your own linear interpolation algorithm, or
-- a pre-existing cubic spline interpolation algorithm (using e.g. the interp1d
+- a pre-existing cubic spline interpolation algorithm (using e.g. the interpld
 function from scipy.interpolate, with the ‘cubic’ keyword)
 
 (b) Use each of these methods (linear and cubic spline interpolation) in turn to in-
