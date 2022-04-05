@@ -14,3 +14,4 @@ List of Codes:
 8. Quantum uncertainty in the harmonic oscillator
 9. Interpolation of a quasar spectrum
 10. Brownian motion
+11. Gaussian elimination with pivoting
