@@ -14,9 +14,6 @@ Write a program to perform a million steps of this process on a lattice with L =
 and make an animation on the screen of the position of the particle. (We choose an odd
 length for the side of the square so that there is one lattice site exactly in the center.)  
 
-Note: The visual package doesn't always work well with the random package, but
-if you import functions from visual first, then from random, you should avoid prob-
-lems.
 
 **Modifications:**
 - Have your code keep track of the number of times the particle hits the wall during
