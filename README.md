@@ -15,3 +15,4 @@ List of Codes:
 9. Interpolation of a quasar spectrum
 10. Brownian motion
 11. Gaussian elimination with pivoting
+12. Finding eigenvalues
