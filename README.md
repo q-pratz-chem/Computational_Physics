@@ -12,3 +12,4 @@ List of Codes:
 6. An unstable calculation
 7. The power of a quasar
 8. Quantum uncertainty in the harmonic oscillator
+9. Interpolation of a quasar spectrum
