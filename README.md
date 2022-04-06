@@ -17,3 +17,5 @@ List of Codes:
 11. Gaussian elimination with pivoting
 12. Finding eigenvalues
 13. Lagrange point
+14. The double pendulum
+
