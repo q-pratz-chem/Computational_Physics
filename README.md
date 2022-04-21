@@ -12,14 +12,19 @@ List of Codes:
 6. An unstable calculation
 7. The power of a quasar
 8. Quantum uncertainty in the harmonic oscillator 
-9. Interpolation of a quasar spectrum \[Integration methods\]
+9. Interpolation of a quasar spectrum
 10. Brownian motion
 11. Gaussian elimination with pivoting
 12. Finding eigenvalues
 13. Lagrange point
 14. The double pendulum
 
-Topics
+Topics:
 
-Integrals over infinite ranges
-- Quantum uncertainty in the harmonic oscillator 
+- [Integrals over infinite ranges] [Quantum uncertainty in the harmonic oscillator ]
+    i. Quantum uncertainty in the harmonic oscillator 
+- Integration methods
+(a) Piecewise constant integration (the “rectangle rule")
+(b) Piecewise linear integration (the “trapezoidal rule")
+(c) Simpson’s Rule  
+    i. Interpolation of a quasar spectrum
