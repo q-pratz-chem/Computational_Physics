@@ -21,7 +21,7 @@ List of Codes:
 
 Topics:
 
-- [Integrals over infinite ranges](#inf-Integraion)
+- [Integrals over infinite ranges](#Quantum-uncertainty-in-the-harmonic-oscillator)
 
 - Integration methods
 (a) Piecewise constant integration (the “rectangle rule")
