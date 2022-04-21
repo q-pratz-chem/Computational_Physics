@@ -21,7 +21,7 @@ List of Codes:
 
 Topics:
 
-- [Integrals over infinite ranges](#8.-Quantum-uncertainty-in-the-harmonic-oscillator)
+- [Integrals over infinite ranges](8.-Quantum-uncertainty-in-the-harmonic-oscillator)
 
 - [Integration methods](#7.-The-power-of-a-quasar)  
 (a) Piecewise constant integration (the “rectangle rule")  
