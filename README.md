@@ -21,10 +21,9 @@ List of Codes:
 
 Topics:
 
-- [Integrals over infinite ranges](8.-Quantum-uncertainty-in-the-harmonic-oscillator)
-
-- [Integration methods](#7.-The-power-of-a-quasar)  
+- Integrals over infinite ranges
+- Integration methods   
 (a) Piecewise constant integration (the “rectangle rule")  
 (b) Piecewise linear integration (the “trapezoidal rule")   
 (c) Simpson’s Rule     
-    i. Interpolation of a quasar spectrum
+  
