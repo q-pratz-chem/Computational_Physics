@@ -11,11 +11,15 @@ List of Codes:
 5. Density plots for STM measurements
 6. An unstable calculation
 7. The power of a quasar
-8. Quantum uncertainty in the harmonic oscillator
-9. Interpolation of a quasar spectrum
+8. Quantum uncertainty in the harmonic oscillator 
+9. Interpolation of a quasar spectrum \[Integration methods\]
 10. Brownian motion
 11. Gaussian elimination with pivoting
 12. Finding eigenvalues
 13. Lagrange point
 14. The double pendulum
 
+Topics
+
+Integrals over infinite ranges
+- Quantum uncertainty in the harmonic oscillator 
