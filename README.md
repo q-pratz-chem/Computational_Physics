@@ -21,7 +21,7 @@ List of Codes:
 
 Topics:
 
-[Integrals over infinite ranges][Quantum uncertainty in the harmonic oscillator]    
+[Quantum uncertainty in the harmonic oscillator](Integrals over infinite ranges)
 
     i. Quantum uncertainty in the harmonic oscillator 
 - Integration methods
