@@ -23,8 +23,8 @@ Topics:
 
 - [Integrals over infinite ranges](#8.-Quantum-uncertainty-in-the-harmonic-oscillator)
 
-- Integration methods
-(a) Piecewise constant integration (the “rectangle rule")
-(b) Piecewise linear integration (the “trapezoidal rule")
-(c) Simpson’s Rule  
+- [Integration methods](#7.-The-power-of-a-quasar)  
+(a) Piecewise constant integration (the “rectangle rule")  
+(b) Piecewise linear integration (the “trapezoidal rule")   
+(c) Simpson’s Rule     
     i. Interpolation of a quasar spectrum
