@@ -11,7 +11,7 @@ List of Codes:
 5. Density plots for STM measurements
 6. An unstable calculation
 7. The power of a quasar
-8. Quantum uncertainty in the harmonic oscillator {#infIntegration}   
+8. Quantum uncertainty in the harmonic oscillator {#inf-Integration}   
 9. Interpolation of a quasar spectrum
 10. Brownian motion
 11. Gaussian elimination with pivoting
@@ -21,7 +21,7 @@ List of Codes:
 
 Topics:
 
-- [Integrals over infinite ranges](#infIntegraion)
+- [Integrals over infinite ranges](#inf-Integraion)
 
 - Integration methods
 (a) Piecewise constant integration (the “rectangle rule")
