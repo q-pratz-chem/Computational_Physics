@@ -11,5 +11,5 @@ $$ T = \frac{4k_1k_2}{(k_1 + k_2)^2}, \quad \quad R = \bigg(\frac{k_1 - k_2}{k_1
 
 Suppose we have a particle with mass equal to the electron mass $m = 9.11 \times 10^{-31} kg$ and energy $10eV$ encountering a potential step of height $9eV$. Write a Python program to compute and print out the transmission and reflection probabilities using the formulas above.
 
-**(But instead of printing values for a single energy, please calculate the transmission and reflection probabilities $(T &amp R)$ for a range of electron energies E from 9 to 40 eV, and plot the results for T and R as a function of E.
+**(But instead of printing values for a single energy, please calculate the transmission and reflection probabilities $(T \amp R)$ for a range of electron energies E from 9 to 40 eV, and plot the results for T and R as a function of E.
 Make sure to label your axes.)**
